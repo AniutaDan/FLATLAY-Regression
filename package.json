@@ -1,0 +1,18 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "codemify",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.0",
+    "yarn": "^1.22.18"
+  },
+  "devDependencies": {
+    "cypress-recurse": "^1.20.0"
+  }
+}
